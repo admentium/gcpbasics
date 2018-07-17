@@ -1,0 +1,3 @@
+dataprocs\WordCount.class
+dataprocs\WordCount$Reduce.class
+dataprocs\WordCount$Map.class
